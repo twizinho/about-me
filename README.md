@@ -7,4 +7,4 @@ my name is twizinho.
 - 15 yr old from brazil
 
 # links
-(linktree)[https://linktr.ee/twizinho]
+[linktree](https://linktr.ee/twizinho)
